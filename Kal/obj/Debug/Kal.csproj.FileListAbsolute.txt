@@ -1,0 +1,10 @@
+D:\SEMESTER3\pemrograman lanjut\Kal\bin\Debug\Kal.exe.config
+D:\SEMESTER3\pemrograman lanjut\Kal\bin\Debug\Kal.exe
+D:\SEMESTER3\pemrograman lanjut\Kal\bin\Debug\Kal.pdb
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.csprojAssemblyReference.cache
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.Form1.resources
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.Properties.Resources.resources
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.csproj.GenerateResource.cache
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.csproj.CoreCompileInputs.cache
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.exe
+D:\SEMESTER3\pemrograman lanjut\Kal\obj\Debug\Kal.pdb

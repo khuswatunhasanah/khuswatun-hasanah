@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kal", "Kal.csproj", "{210B1E20-1671-426D-BC35-BADA714DA255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210B1E20-1671-426D-BC35-BADA714DA255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210B1E20-1671-426D-BC35-BADA714DA255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210B1E20-1671-426D-BC35-BADA714DA255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210B1E20-1671-426D-BC35-BADA714DA255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {405E123C-55B8-472F-B56B-1B546A1F52E8}
+	EndGlobalSection
+EndGlobal
